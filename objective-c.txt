@@ -1,5 +1,5 @@
 #
-# .gitigore file by Alexander Chernyy
+# .gitigore file for Objective-C
 #
 # http://chernyy.[ru|com]
 # alex@chernyy.ru
@@ -12,6 +12,8 @@ Build/*
 
 DerivedData/*
 xcuserdata/*
+
+!*.xcodeproj/xcshareddata
 
 *.pbxuser
 !default.pbxuser
