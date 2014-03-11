@@ -1,0 +1,19 @@
+#
+# .gitigore file for OS
+#
+# http://chernyy.[ru|com]
+# alex@chernyy.ru
+#
+
+# OS
+
+.DS_Store
+[Tt]humbs.db
+
+profile
+
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
