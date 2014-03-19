@@ -11,7 +11,7 @@ build/*
 Build/*
 
 DerivedData/*
-xcuserdata/*
+*./xcuserdata/*
 
 !*.xcodeproj/xcshareddata
 
